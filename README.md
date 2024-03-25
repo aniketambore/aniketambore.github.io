@@ -1,0 +1,1 @@
+A website developed using the Rust (Leptos) framework and OpenProps.
