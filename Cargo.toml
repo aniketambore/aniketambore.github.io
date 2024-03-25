@@ -10,6 +10,7 @@ console_error_panic_hook = "0.1.7"
 leptos = { version = "0.6.9", features = ["csr", "nightly"] }
 
 [build]
+params.assets.disableFingerprinting = true
 # Allow disabling minification
 no_minification = false
 # Allow disabling sub-resource integrity (SRI)
