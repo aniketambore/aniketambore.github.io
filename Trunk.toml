@@ -1,0 +1,3 @@
+[build]
+# Allow disabling sub-resource integrity (SRI)
+no_sri = false
