@@ -90,6 +90,7 @@ fn CardAction() -> impl IntoView {
         <div class:btn-container=true>
             <a
                 class:btn=true
+                style="text-decoration:none;"
                 rel="noopener"
                 target="_blank"
                 href="mailto:aaa.software.dev@gmail.com?subject=Job%20Opportunity&body=Hello,%0D%0A%0D%0AI%20am%20contacting%20you%20in%20response%20to%20your%20website%20and%20to%20inquire%20about%20your%20availability%20for%20a%20potential%20job%20opportunity%20as%20a%20software%20developer.%0D%0A%0D%0APlease%20let%20me%20know%20if%20you%20are%20interested%20in%20discussing%20further.%0D%0A%0D%0AThank%20you,%0D%0A[Your%20Name]%0D%0A[Your%20Contact%20Information]"
