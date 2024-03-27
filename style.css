@@ -57,6 +57,10 @@ h1 {
     font-weight: var(--font-weight-5);
 }
 
+a {
+    text-decoration: none;
+}
+
 .social-links {
     margin-bottom: var(--size-fluid-1);
     text-align: center;
