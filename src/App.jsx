@@ -27,7 +27,7 @@ function ChatContainer() {
         </div>
       </main>
 
-      <div className="border-t border-gray-600/50">
+      <div className="sticky bottom-0 border-t border-gray-600/50">
         <div className="max-w-3xl mx-auto">
           <ChatInput />
         </div>
